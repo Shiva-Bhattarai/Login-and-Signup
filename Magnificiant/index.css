@@ -87,7 +87,7 @@ h6 span{
   left: -10px;
   line-height: 36px;
   text-align: center;
-  font-size: 24px;
+  font-size: 25px;
   transition: all 0.5s ease;
 }
 .checkbox:checked + label:before {
